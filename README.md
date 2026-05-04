@@ -1,1 +1,0 @@
-# 2025-2026-softwaredevelop-job
