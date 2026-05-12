@@ -92,4 +92,5 @@ onCameraClick = {
     confidence = "95.00"
     inferenceTime = "124"
 }
+```
 ![alt text](images/QQ20260512-221744.png)
