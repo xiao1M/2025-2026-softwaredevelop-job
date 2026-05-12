@@ -9,3 +9,4 @@
 创建Compose中的列（Column）和行（Row）使用循环向Column中添加元素向，Greeting 添加可点击元素，因此需要先添加对应的按钮。
 ![alt text](images/image-1.png)
 ## 任务三：完成面向AI应用的Compose布局
+这个任务在分支4，因为和任务二的项目在一起不好传
